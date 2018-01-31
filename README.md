@@ -14,17 +14,17 @@ Programmable Gain Amplifier (PGA) on board it's easy to change that.
 Nothing is perfect, though, so watch the video for some gotchas and coding techniques we can use to maximize the usefulness
 of this device.
 
-Sketch used in the demo (including the averaging function) is in the Github.
+Sketch used in the demo (including the averaging function) is in the Github.  
 https://github.com/RalphBacon/ADS1115-ADC
 
-Where I bought my ADS1115 ADC
+Where I bought my ADS1115 ADC  
 https://www.aliexpress.com/item/ADS1115-ADC-ultra-compact-16-precision-ADC-module-development-board/32313388618.html
 
-Adafruit do a library and everything! Not used in this demo but doubtless worth a look.
-https://www.adafruit.com/product/1085
+Adafruit do a library and everything! Not used in this demo but doubtless worth a look.  
+https://www.adafruit.com/product/1085  
 https://learn.adafruit.com/adafruit-4-channel-adc-breakouts?view=all
 
-Datasheet is in the GitHub, worth reading the bit about registers.
+Datasheet is in the GitHub, worth reading the bit about registers.  
 https://github.com/RalphBacon/ADS1115-ADC
 
 ---
